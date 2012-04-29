@@ -295,7 +295,7 @@
 							<real>214</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>123 269 1494 759 0 0 1680 1028 </string>
+						<string>68 195 1494 759 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -325,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>51CA5ABD154C80D200DE8EB5</string>
+										<string>51CA5ACB154D7D6600DE8EB5</string>
 										<key>history</key>
 										<array>
 											<string>51D8CB05153B2B62002DE215</string>
@@ -363,8 +363,8 @@
 											<string>51CA5AB8154C80D200DE8EB5</string>
 											<string>51CA5AB9154C80D200DE8EB5</string>
 											<string>51CA5ABA154C80D200DE8EB5</string>
-											<string>51CA5ABB154C80D200DE8EB5</string>
-											<string>51CA5ABC154C80D200DE8EB5</string>
+											<string>51CA5AC9154D7D6600DE8EB5</string>
+											<string>51CA5ACA154D7D6600DE8EB5</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -378,7 +378,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1258, 713}}</string>
 								<key>RubberWindowFrame</key>
-								<string>123 269 1494 759 0 0 1680 1028 </string>
+								<string>68 195 1494 759 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -398,7 +398,7 @@
 								<key>Frame</key>
 								<string>{{0, 718}, {1258, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>123 269 1494 759 0 0 1680 1028 </string>
+								<string>68 195 1494 759 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -570,7 +570,7 @@
 		<string>/Users/ignaciogarcia/Desktop/OF007MUSICAL/apps/musical/musical/musical.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>123 269 1494 759 0 0 1680 1028 </string>
+	<string>68 195 1494 759 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

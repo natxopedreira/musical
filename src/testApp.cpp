@@ -4,7 +4,7 @@
 void testApp::setup(){
 	
 	ofSetFrameRate(60);
-	ofSetVerticalSync(true);
+	//ofSetVerticalSync(true);
 	ofBackground(0);
 	
 	contenido.inicia();
