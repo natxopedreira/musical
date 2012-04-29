@@ -2,7 +2,6 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
-	
 	ofSetFrameRate(60);
 	//ofSetVerticalSync(true);
 	ofBackground(0);
@@ -18,7 +17,6 @@ void testApp::setup(){
 //--------------------------- -----------------------------------
 void testApp::update(){
 	contenido.actualiza();
-	
 }
 //--------------------------------------------------------------
 void testApp::draw(){
@@ -29,7 +27,6 @@ void testApp::draw(){
 	
 	ofSetColor(255);
 	salida.draw(0, 0);
-	
 	
 	ofDrawBitmapString(ofToString(ofGetFrameRate()), ofPoint(100,100));
 }
